@@ -1,0 +1,36 @@
+.p1{
+    color: #52d4eb;
+    margin-top: 10rem;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+
+.p2{
+    font-family: sans-serif;
+    text-align: center;
+   
+   
+}
+
+.b1{
+    background-image: url(oliur-TIMCZe9JghI-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: 20px;
+}
+
+.button{
+    text-align: center;
+    border-radius: 10px;
+    border: none;
+    background-color:#52d4eb; ;
+    padding: 0.5rem;
+
+
+}
+.div1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 11px;
+
+}
